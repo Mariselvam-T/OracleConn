@@ -13,6 +13,15 @@
     <systemPath>C:/Users/Magesh/workspace/JDBCConnection1/lib/ext/ojdbc11.jar</systemPath>
     
 </dependency>
+
+  <dependency>
+    <groupId>com.thoughtworks</groupId>
+    <artifactId>xstream</artifactId>
+    <version>1.4.16</version>
+    <scope>system</scope>
+    <systemPath>C:\Users\Magesh\Documents\GitHub\OracleConnection_POC\JDBCConnection1\lib\ext\xstream-1.4.16.jar</systemPath>
+    
+</dependency>
 </dependencies>
 
 </project>
