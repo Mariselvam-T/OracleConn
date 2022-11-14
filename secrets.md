@@ -1,2 +1,1 @@
-Token2=SKf99f5dbd9668f722ac72d55d6fffff99
 GithubToke=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
